@@ -2,13 +2,17 @@
 # Rapport
 
 Ändrade följande kod:
-<string name="app_name">Hello</string> 
+&lt;string name="app_name"&gt;Hello&lt;/string&gt;
 
 Till följande kod:
-<string name="app_name">Something Nice</string>
+&lt;string name="app_name"&gt;Something Nice&lt;/string&gt;
 
-i strings.xml filen.
+inuti strings.xml filen.
 
-Detta gör att all text i programmet nu är "Something Nice" istället för "Hello".
-![](text.png)
+Detta gör att app namnet nu är "Something Nice" istället för "Hello".
+Vilket även ändrar texten i programmet eftersom texten är baserad på app-namnet.
+
+Vilket kan ses i följande bild:
+
+![](screenshot.png)
 
